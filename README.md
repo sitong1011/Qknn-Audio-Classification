@@ -1,6 +1,6 @@
 # Qknn-Audio-Classification
 
-Jupyter notebook written for Sitong Liu's bachelor thesis "Audio Identification and Classification with Quantum Computing" in 2021.
+Jupyter notebook written for Sitong Liu's bachelor thesis in 2021.
 -----------------
 This project uses these sounds from freesound:  
 "8382__guitar-a-pick.wav", "8383__guitar-a-pluck.wav" by SpeedY (https://freesound.org/people/SpeedY/ ) licensed under CC0 1.0.   
